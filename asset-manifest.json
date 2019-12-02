@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "albrewot.github.io/react-roguelike/static/js/main.7695fa24.chunk.js",
-    "main.js.map": "albrewot.github.io/react-roguelike/static/js/main.7695fa24.chunk.js.map",
-    "runtime-main.js": "albrewot.github.io/react-roguelike/static/js/runtime-main.51d00360.js",
-    "runtime-main.js.map": "albrewot.github.io/react-roguelike/static/js/runtime-main.51d00360.js.map",
-    "static/js/2.fe5305e9.chunk.js": "albrewot.github.io/react-roguelike/static/js/2.fe5305e9.chunk.js",
-    "static/js/2.fe5305e9.chunk.js.map": "albrewot.github.io/react-roguelike/static/js/2.fe5305e9.chunk.js.map",
-    "index.html": "albrewot.github.io/react-roguelike/index.html",
-    "precache-manifest.f5818c60ccdb55c24b79d2f69b30fc9a.js": "albrewot.github.io/react-roguelike/precache-manifest.f5818c60ccdb55c24b79d2f69b30fc9a.js",
-    "service-worker.js": "albrewot.github.io/react-roguelike/service-worker.js"
+    "main.js": "/react-roguelike/static/js/main.9e524d5a.chunk.js",
+    "main.js.map": "/react-roguelike/static/js/main.9e524d5a.chunk.js.map",
+    "runtime-main.js": "/react-roguelike/static/js/runtime-main.8ae70fea.js",
+    "runtime-main.js.map": "/react-roguelike/static/js/runtime-main.8ae70fea.js.map",
+    "static/js/2.fe5305e9.chunk.js": "/react-roguelike/static/js/2.fe5305e9.chunk.js",
+    "static/js/2.fe5305e9.chunk.js.map": "/react-roguelike/static/js/2.fe5305e9.chunk.js.map",
+    "index.html": "/react-roguelike/index.html",
+    "precache-manifest.beb6705248812931eca899b5edcbc4d5.js": "/react-roguelike/precache-manifest.beb6705248812931eca899b5edcbc4d5.js",
+    "service-worker.js": "/react-roguelike/service-worker.js"
   },
   "entrypoints": [
-    "static/js/runtime-main.51d00360.js",
+    "static/js/runtime-main.8ae70fea.js",
     "static/js/2.fe5305e9.chunk.js",
-    "static/js/main.7695fa24.chunk.js"
+    "static/js/main.9e524d5a.chunk.js"
   ]
 }
