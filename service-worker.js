@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "albrewot.github.io/react-roguelike/precache-manifest.7d5452f863f0804450d49ee76d1089e5.js"
+  "albrewot.github.io/react-roguelike/precache-manifest.f5818c60ccdb55c24b79d2f69b30fc9a.js"
 );
 
 self.addEventListener('message', (event) => {

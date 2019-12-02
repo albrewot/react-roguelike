@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a52fcb50d02107c33df4adcf7eb6dca3",
+    "revision": "ef352ca40d65ac5f1db8aac46ada9512",
     "url": "albrewot.github.io/react-roguelike/index.html"
   },
   {
